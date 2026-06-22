@@ -1,1 +1,2 @@
 hello from merge conflict file from main branch updated
+hello from merge conflict file from mc branch 
